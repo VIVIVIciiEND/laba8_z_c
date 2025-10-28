@@ -53,7 +53,7 @@ namespace laba8_z_c
         //    //    age = 18;
         //    //}
         //    //public void Print() => Console.WriteLine($"Имя {name} Возраст {age}");
-        public string? name;
+        //public string? name;
 
     }
     
